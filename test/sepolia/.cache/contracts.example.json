@@ -1,0 +1,6 @@
+{
+  "nftAuctionAddress": "拍卖合约逻辑合约地址",
+  "nftAuctionFactoryAddress": "拍卖工厂合约逻辑合约地址",
+  "testNFTAddress": "测试的NFT合约地址",
+  "proxyAddress": "拍卖工厂合约代理合约地址"
+}

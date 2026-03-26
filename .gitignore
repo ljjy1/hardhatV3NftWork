@@ -13,3 +13,28 @@ states/
 # Optional
 .env
 .env.local
+/.idea/
+
+## hardhat框架需要忽略的内容
+# Node modules
+/node_modules
+
+# Compilation output
+/dist
+
+# pnpm deploy output
+/bundle
+
+# Hardhat Build Artifacts
+/artifacts
+
+# Hardhat compilation (v2) support directory
+/cache
+
+# Typechain output
+/types
+
+# Hardhat coverage reports
+/coverage
+/CLAUDE.md
+/test/sepolia/.cache/contracts.json
