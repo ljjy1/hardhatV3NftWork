@@ -38,3 +38,4 @@ states/
 /coverage
 /CLAUDE.md
 /test/sepolia/.cache/contracts.json
+scripts/.cache/deployment-cache.json
